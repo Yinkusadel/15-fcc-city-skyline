@@ -113,8 +113,14 @@
     width: 10%;
     height: 33%;
     background-color: var(--building-color2);
-    position :relative ;
+    position: relative;
     right: 10%;
+    background: repeating-linear-gradient(
+        var(--building-color2) 0%,
+        var(--building-color2) 5%,
+        transparent 5%,
+        transparent 10%
+      ),
   }
   
   .fb6 {
@@ -259,4 +265,9 @@
       border-radius: 50%;
       margin :10%;
       background-color:var(--window-color1);
+    }
+
+    .fb4a {
+      border-top :5vh solid transparent;
+      border-left:8vw solid var(--building-color1);
     }
