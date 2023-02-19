@@ -1,6 +1,6 @@
-# Project Name
+# City Skyline
 
-> One paragraph statement about the project.
+> A city skyline by configuring CSS variables to be reused
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,17 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- div
+- CSS
+- universal selector
+- gradient
+- media query
+- pseudo selector
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://15-fcc-city-skyline.netlify.app)
 
 ### Development (Running locally)
 
