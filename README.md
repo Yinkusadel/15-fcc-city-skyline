@@ -1,27 +1,37 @@
-# Project Name
+# City Skyline
 
-> One paragraph statement about the project.
+> A city skyline by configuring CSS variables to be reused
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- ### HTML5 elements
+  - **Block element**
+    `div`
+- ### CSS properties
+  - CSS variables for reuseable CSS values,
+  - CSS media query for page responsiveness using `@media` rule,
+  - CSS positioning `absolute`,
+  - CSS flex-direction `column`
+  - CSS background for page aesthetic using `background-color`, `background-image`.
+  - CSS selectors `class selector` `pseudo selector` `universal selector` `root selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://15-fcc-city-skyline.netlify.app)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/Yinkusadel/15-fcc-city-skyline/pull/1
 
 ```
 
@@ -70,9 +80,10 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@yinkusadel](https://github.com/yinkusadel)
+- Twitter: [@HashiraAdel](https://twitter.com/HashiraAdel)
+- Linkedin: [@adeleyeolayinka](https://www.linkedin.com/in/adeleye-olayinka/)
+- FreeCodeCamp: [@yinkusadel](https://www.freecodecamp.org/Yinkusadel)
 
 ## 🤝 Contributing
 
@@ -86,9 +97,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- FreeCodeCamp: [@fcc-css-flexbox-photo-gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/step-1)
 
 ## 📝 License
 
